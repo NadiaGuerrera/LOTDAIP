@@ -3,7 +3,7 @@
 
 #OBJETO DE LA LEY
 
-Semejanzas:Garantizar el derecho al acceso a la información pública. Garantizar Transparencia en la gestión Pública.
+Semejanzas: Garantizar el derecho al acceso a la información pública. Garantizar Transparencia en la gestión Pública.
 
 
 #PROCEDIMIENTOS
