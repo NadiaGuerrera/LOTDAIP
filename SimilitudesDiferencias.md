@@ -9,7 +9,7 @@ Semejanzas: Garantizar el derecho al acceso a la información pública. Garantiz
 #PROCEDIMIENTOS
 
   Venezuela: Solicitud por escrito, electrónico o verbal frente a la Oficina de Atención al Ciudadano. 
-              Plazo de Respuesta:Hasta 8 días hábilies. Aparece confuso e incongruente (Art.40 y 41)
+              Plazo de Respuesta:Hasta 8 días hábiles. Aparece confuso e incongruente (Art.40 y 41)
 
   Uruguay: Solicitud escrita ante el titular del organismo. Plazo de Respuesta: Hasta 20 días hábilies.
 
