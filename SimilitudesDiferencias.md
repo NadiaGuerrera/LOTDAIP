@@ -30,7 +30,8 @@ Semejanzas: Garantizar el derecho al acceso a la información pública. Garantiz
                         Los otros 2 miembros 4 años.
                         
       Existe la Figura del Consejo Consultivo que asistirá al consejo directivo del AGESIC, 
-     formado por un miembro del sector privado, uno del sector académico,poder judicial y ministerio público.
+     formado por un miembro del sector privado, uno del sector académico,poder judicial y 
+     ministerio público.
 
   ECUADOR: Órgano Rector: La Defensoría del Pueblo.
 
