@@ -1,4 +1,4 @@
-#Aspectos entre las Diferenctes Leyes
+#Aspectos entre las Diferentes Leyes
 
 
 #OBJETO DE LA LEY
