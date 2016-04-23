@@ -20,8 +20,8 @@ Semejanzas: Garantizar el derecho al acceso a la información pública. Garantiz
 #ENTE RECTOR, ESTRUCTURA ORGANIZATIVA
   Venezuela:Órgano Rector: Consejo de Transparencia. 
                            Adscrito a la Contraloría General de la República.
-            Nombrado por: La Asamblea Nacional (parcialidad política,no hay autonomía de poderes?)
-            Formado por: Cinco(5) consejeros con sueldo c/u igual al de un Ministro 
+            Nombrado por: La Asamblea Nacional (parcialidad política,no hay autonomía de poderes?).
+            Formado por: Cinco(5) consejeros con sueldo c/u igual al de un Ministro.
             Duración: cinco años en el cargo (¿no es mucho?)
 
   Uruguay: Oŕgano Rector: AGESIC.
