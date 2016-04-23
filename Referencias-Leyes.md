@@ -1,5 +1,5 @@
 
-Casos de Leyes Relacionadas a la Transparencia de acuerdo al País:
+#Casos de Leyes Relacionadas a la Transparencia de acuerdo al País:
 
 Caso VENEZUELA: Proyecto en discusión, Ley Orgánica de Transparencia, Divulgación y Acceso a la Información Pública (LOTDAIP)
 http://www.asambleanacional.gob.ve/uploads/documentos/doc_f6c8c5d3f5b7669b997ba69ae46d4e7674d9a87a.pdf
