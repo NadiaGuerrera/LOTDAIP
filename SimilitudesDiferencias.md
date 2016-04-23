@@ -18,7 +18,7 @@ Semejanzas: Garantizar el derecho al acceso a la información pública. Garantiz
   Chile: Solicitud escrita o electrónico ante el titular del organismo. Plazo de Respuesta: Hasta 20 días hábiles.
 
 #ENTE RECTOR, ESTRUCTURA ORGANIZATIVA
-  Venezuela:örgano Rector: Consejo de Transparencia. 
+  Venezuela:Órgano Rector: Consejo de Transparencia. 
                            Adscrito a la Contraloría General de la República.
             Nombrado por: La Asamblea Nacional (parcialidad política,no hay autonomía de poderes?)
             Formado por: Cinco(5) consejeros con sueldo c/u igual al de un Ministro 
