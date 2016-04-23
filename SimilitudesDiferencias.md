@@ -29,7 +29,7 @@ Semejanzas: Garantizar el derecho al acceso a la información pública. Garantiz
              Duración: El presidente del AGESIC durará un año
                         Los otros 2 miembros 4 años.
              
-             Existe la Figura del Consejo Consultivo que asistirá al consejo directivo del AGESIC, formado por un miembro del sector privado, uno del sector académico,poder judicial y ministerio público.
+        Existe la Figura del Consejo Consultivo que asistirá al consejo directivo del AGESIC, formado por un miembro del sector privado, uno del sector académico,poder judicial y ministerio público.
             
 
   Ecuador: Órgano Rector: La Defensoría del Pueblo.
