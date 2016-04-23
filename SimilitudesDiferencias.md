@@ -39,13 +39,3 @@ Semejanzas: Garantizar el derecho al acceso a la información pública. Garantiz
          Duración: Seis(6) años en sus cargos pudiendo ser reelegidos por un periodo más.
          Sueldo del presidente del consejo: Igual al de Subsecretario de Estado. 
 
-
-#SANCIONES
-Semejanzas:
-
-
-Diferencias:
-
-
-
-
