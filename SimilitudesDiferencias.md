@@ -1,6 +1,7 @@
 #Aspectos entre las Diferenctes Leyes
 
-OBJETO DE LA LEY
+
+#OBJETO DE LA LEY
 
 Semejanzas:
 
