@@ -6,3 +6,12 @@ El acceso a la información pública es un derecho humano fundamental y es un in
 Aquí les presentaré un breve resumen del Proyecto LOTDAIP que plantea la AN en Venezuela así como referencias importantes de otros países.
 
 La intención es que podamos llegar a acuerdos en cuanto a nuestra propuesta como CSLVE
+
+CONTENIDO PARA DISCUSION
+
+1.- Referencias a Leyes: Enlaces a Leyes estudiadas y páginas de Interés.
+2.- Aspectos resaltantes de interés, semejanzas o diferencias.
+3.- Breve comparación, similitudes y diferencias...
+4.- Análisis caso Venezuela.
+5.- Propuestas y aportes finales de acuerdo a debate.
+
