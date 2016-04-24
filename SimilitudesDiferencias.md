@@ -64,3 +64,8 @@ VENEZUELA: Al funcionario público, multas de hasta un 50% de su salario mensual
 URUGUAY: No menciona Sanciones en la Ley, ni en su reglamento.
 
 ECUADOR: 
+Multa equivalente a la remuneración de un mes de sueldo o salario que se halle percibiendo a la fecha de la sanción; 
+Suspensión de sus funciones por el tiempo de treinta días calendario, sin derecho a sueldo o remuneración por ese mismo lapso; 
+y, Destitución del cargo en caso de que, a pesar de la multa o suspensión impuesta, se persistiere en la negativa a la entrega de la información. Multa de cien a quinientos dólares por cada día de incumplimiento a la resolución.
+
+CHILE: Multa de 20% a 50% de su remuneración de la Autoridad o Jefe que incumpla con la solicitud de acceso a la Información.
