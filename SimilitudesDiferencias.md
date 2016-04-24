@@ -42,15 +42,15 @@ Semejanzas: Garantizar el derecho al acceso a la información pública. Garantiz
          Sueldo del presidente del consejo: Igual al de Subsecretario de Estado. 
 
 #Ambitos de Aplicación
-VENEZUELA: Poder Público Nacional, incluyendo el Poder Electoral, órganos estadalees y municipales.
+VENEZUELA: Poder Público Nacional, incluyendo el Poder Electoral, órganos estadales y municipales.
           Fundaciones, personas o instituciones de carácter privado que provean de bienes o servicios a algun ente público.
           Organizaciones políticas.
           Consejos Comunales entre otros...
-  ** No ví a las Universidades Públicas (deberían)
+  ** No ví a las Universidades Públicas (deberían).
+  
 URUGUAY: Todo Organismo Público, estadal o no.
 
-ECUADOR:Organismos Públicos. Organismos o personas personas jurídicas de derecho público o privado que, para el tema materia de 
-la información tengan participación del Estado o sean concesionarios de éste. Instituciones de Educación Superior que perciban rentas del Estado, ONGs.
+ECUADOR:Organismos Públicos. Organismos o personas jurídicas de derecho público o privado que, para el tema materia de la información tengan participación del Estado o sean concesionarios de éste. Instituciones de Educación Superior que perciban rentas del Estado, ONGs.
 
 CHILE: Órganos de la Administración Pública, los gobiernos regionales, las municipalidades, las Fuerzas Armadas, de Orden y Seguridad Pública
 
