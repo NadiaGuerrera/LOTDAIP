@@ -53,3 +53,10 @@ ECUADOR:Organismos Públicos. Organismos o personas personas jurídicas de derec
 la información tengan participación del Estado o sean concesionarios de éste. Instituciones de Educación Superior que perciban rentas del Estado, ONGs.
 
 CHILE: Órganos de la Administración Pública, los gobiernos regionales, las municipalidades, las Fuerzas Armadas, de Orden y Seguridad Pública
+
+#Sanciones
+
+VENEZUELA: Al funcionario público, multas de hasta un 50% de su salario mensual.
+          Suspensión de hasta 30 días sin derecho a sueldo.
+          Destitución del Cargo.
+          Pena de 3 meses a dos años de prisión, en casos de pérdida, lateración o destrucción de información confidencial.
