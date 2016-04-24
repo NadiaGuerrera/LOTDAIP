@@ -29,5 +29,5 @@ http://web.archive.org/web/20130614232655/http://www.diputados.gob.mx/LeyesBibli
 Observación: 
 Uruguay y Chile son los países considerados los más transparentes en la región (LAC) según índices de percepción:
 http://www.uruguaytransparente.org.uy/images/cpi/CPI2015.pdf
-Paígina de años anteriores:
+Página de años anteriores:
 http://www.uruguaytransparente.org.uy/index.php?option=com_content&view=article&id=9&Itemid=2
