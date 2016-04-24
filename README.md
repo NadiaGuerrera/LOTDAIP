@@ -9,9 +9,9 @@ La intención es que podamos llegar a acuerdos en cuanto a nuestra propuesta com
 
 CONTENIDO PARA DISCUSION
 
-1.- Breve Explicación sobre la LOTDAIP
-2.- Referencias: Enlaces a otras leyes por país y otras páginas de interés.
-3.- Aspectos resaltantes de cada ley, similitudes destacables o diferencias.
-4.- Análisis caso Venezuela.
+1.- Breve Explicación sobre la LOTDAIP. 
+2.- Referencias: Enlaces a otras leyes por país y otras páginas de interés. 
+3.- Aspectos resaltantes de cada ley, similitudes destacables o diferencias. 
+4.- Análisis caso Venezuela. 
 5.- Propuestas y aportes finales de acuerdo a debate.
 
