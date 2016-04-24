@@ -9,9 +9,9 @@ La intención es que podamos llegar a acuerdos en cuanto a nuestra propuesta com
 
 CONTENIDO PARA DISCUSION
 
-1.- Referencias a Leyes: Enlaces a Leyes estudiadas y páginas de Interés.
-2.- Aspectos resaltantes de interés, semejanzas o diferencias.
-3.- Breve comparación, similitudes y diferencias...
+1.- Breve Explicación sobre la LOTDAIP
+2.- Referencias: Enlaces a otras leyes por país y otras páginas de interés.
+3.- Aspectos resaltantes de cada ley, similitudes destacables o diferencias.
 4.- Análisis caso Venezuela.
 5.- Propuestas y aportes finales de acuerdo a debate.
 
