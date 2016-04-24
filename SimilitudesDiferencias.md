@@ -42,8 +42,8 @@ Semejanzas: Garantizar el derecho al acceso a la información pública. Garantiz
          Sueldo del presidente del consejo: Igual al de Subsecretario de Estado. 
 
 #Ambitos de Aplicación
-VENEZUELA: Poder Público (Nacional, Estadal, Municipal)
-          Fundaciones o instituciones de carácter privado que provean de bienes o servicios a algun ente público.
+VENEZUELA: Poder Público Nacional, incluyendo el Poder Electoral, órganos estadalees y municipales.
+          Fundaciones, personas o instituciones de carácter privado que provean de bienes o servicios a algun ente público.
           Organizaciones políticas.
           Consejos Comunales entre otros...
   ** No ví a las Universidades Públicas (deberían)
