@@ -7,11 +7,11 @@ Aquí les presentarames un breve resumen del Proyecto LOTDAIP que plantea la AN 
 
 La intención es que podamos llegar a acuerdos en cuanto a nuestra propuesta como CSLVE.
 
-CONTENIDO PARA DISCUSIÓN
+##CONTENIDO PARA DISCUSIÓN
 
-1.- Breve explicación sobre la LOTDAIP. 
-2.- Referencias: enlaces a otras leyes por país y otras páginas de interés. 
-3.- Aspectos resaltantes de cada ley, similitudes destacables o diferencias. 
-4.- Análisis caso Venezuela. 
-5.- Propuestas y aportes finales de acuerdo a debate.
+1. Breve explicación sobre la LOTDAIP. 
+2. Referencias: enlaces a otras leyes por país y otras páginas de interés. 
+3. Aspectos resaltantes de cada ley, similitudes destacables o diferencias. 
+4. Análisis caso Venezuela. 
+5. Propuestas y aportes finales de acuerdo a debate.
 
