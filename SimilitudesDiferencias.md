@@ -5,6 +5,37 @@
 
 Semejanzas: Garantizar el derecho al acceso a la información pública. Garantizar Transparencia en la gestión Pública.
 
+##BASES MORALES
+  VENEZUELA: el analfabetismo ha sido el principal problema para acceder a la información  
+  y gracias a los programas "Acude" y "Misión Robinson" se ha solventado hasta llegar al  
+  punto de ser declarado [territorio libre de analfabetismo por la UNESCO][Unesco_libre] PERO en  
+  este siglo XXI el analfabetismo tecnológico es un problema nuevo a combatir para lograr  
+  la transparencia gubernamental.
+
+[Unesco_libre]:http://www.telesurtv.net/telesuragenda/Venezuela-libre-de-analfabetismo-20141027-0046.html
+
+##BASES CONSTITUCIONALES
+####VENEZUELA:
+   * Constitución de la República Bolivariana de Venezuela, promulgada en  
+Gaceta Oficial Extraordinario N° 5.908 del jueves 19 de febrero de 2009.
+   * [Artículo 28][art28const]: Derecho de cada ciudadano a conocer cuáles entes gubernamentales manejan  
+     información sobre su persona e incluso tener derecho a ordernar corregirla(s) si fuesen datos erróneos.
+   * [Artículo 51][art51const]: BASE LEGAL, FIRME Y EXPLÍCITA PARA LA LOTDAIP.
+   * [Artículo 57][art57const]: Se prohíbe la censura a los funcionarios públicos o funcionarias públicas  
+     para dar cuenta de los asuntos bajo sus responsabilidades.
+   * [Artículo 58][art58const]: Información oportuna, veraz e imparcial (sectores público y privado)
+   * [Artículo 60][art60const]: Derecho a la intimidad digital personal/familiar y su protección.
+   * [Artículo 108][art108const]: CONSAGRADA el [Acceso universal a la información][AUI].
+   * [Artículo 143][art143const]: Derecho a obtener respuesta de las solicitudes formuladas.
+
+[art28const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art28
+[art51const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art51
+[art57const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art57
+[art58const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art58
+[art60const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art60
+[art108const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art108
+[art143const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art143
+[AUI]:http://132.248.242.3/~publica/archivos/libros/acceso_universal_informacion.pdf
 
 #PROCEDIMIENTOS
 
