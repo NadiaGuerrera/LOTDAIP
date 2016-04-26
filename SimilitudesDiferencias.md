@@ -62,7 +62,7 @@ Solicitud finaciera del Banco de Venezuela, PDVSA, Empresas Estadales (Excelente
 
 Uruguay: No discrimina por ente como Venezuela sino que generaliza con el término "organismo público". Lo solicitado por el portal es más sencillo: presupuesto asignado y ejecutado, sueldos por cargos, estadísticas (importante); mecanismos para la participación ciudadana.
 
-Ecuador:Su información solicitada por el portal es parecido al de Uruguay pero adicional agrega contratos elaborados, Los viáticos de las autoridades, dignatarios y funcionarios públicos (Excelente); y soliicita mayor información. Pero a pesar de lo anterior, menciona que deben ser entes de la administración pública. No mencioando ni Bancos ni empresas estadales.
+Ecuador:Su información solicitada por el portal es parecido al de Uruguay pero adicional agrega contratos elaborados, Los viáticos de las autoridades, dignatarios y funcionarios públicos (Excelente); y solicita mayor información. Pero a pesar de lo anterior, menciona que deben ser entes de la administración pública. No mencioando ni Bancos ni empresas estadales.
 
 Observación: Lo que en sí coinciden es en la publicación de la estructura organizativa, sueldos por cargos y presupuesto asignado y ejecutado. No debería faltar cuentas en Bancos y Estados Financieros.
 
