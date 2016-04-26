@@ -1,4 +1,4 @@
-#Analisis Caso Venezuela
+#Análisis Caso Venezuela
 
 Podríamos decir, que en el caso de Venezuela, hoy en día esta Ley es una gran necesidad. Su implementación obligaría al Estado a cumplir las normas. No podemos ser ilusos, sabemos que la ejecución de esta ley no eliminaría por completo la corrupción, pero en efecto si la disminuiría.
 
