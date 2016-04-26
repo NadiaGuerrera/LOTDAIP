@@ -22,7 +22,7 @@ Por otro lado, cabe destacar lo siguientes Aspectos en cuanto al Proyecto de Ley
 
 9.- En cuanto a las Sanciones deberían imputarse a funcionarios relacionados a la información que ha sido negada. Pero en especial debería sancionarse a la autoridad representante del ente quien debe recaer en él el mayor peso de responsabilidad penal o jurídica, de acuerdo al caso. Ecuador menciona multas en dólares (sería una forma interesante). Y Chile deja claro que es al Jefe o Autoridad a quien se le aplica la sanción.
 
-10.- En la publicación por el portal no se le exige a la Asamblea Nacional la publicación de su remuneración, dietas, bonos y viáticos. Debería aplicarse tal como se solicita a otros empleados o servidores públicos, sin ningún tipo de discriminación y respetando el espíritu de transparencia.
+10.- En la publicación por el portal no se le exige a la Asamblea Nacional la publicación de la remuneración de los diputados y demás empleados del órgano, dietas, bonos y viáticos. Debería aplicarse tal como se solicita a otros empleados o servidores públicos, sin ningún tipo de discriminación y respetando el espíritu de transparencia.
 
 Sin lugar a dudas, que una ley en materia de transparencia y acceso a la información pública en nuestro país, es lo que nos hace falta a los venezolanos para permitirnos construir el país que todos soñamos, en función de avanzar hacia una sociedad sana basada en los valores del respeto de sus gobernantes hacia sus ciudadanos, recuperar la confianza en nuestros políticos, satisfacción ciudadana, honestidad y valor al trabajo del funcionario público.
 
