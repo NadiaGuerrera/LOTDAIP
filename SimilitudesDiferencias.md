@@ -54,6 +54,19 @@ ECUADOR:Organismos Públicos. Organismos o personas jurídicas de derecho públi
 
 CHILE: Órganos de la Administración Pública, los gobiernos regionales, las municipalidades, las Fuerzas Armadas, de Orden y Seguridad Pública
 
+#Rendición de Cuentas a través de portales Web
+
+Venezuela: Se piden en los portales sueldos de funcionarios públicos pero en el caso de la Asamblea Nacional se omite publicación de remuneración o montos cancelados por dietas, bonos o remuneración por sesión a diputados. Es decir, necesitamos saber cuánto ganan los diputados, de igual forma. La publicación de su remuneración, bonos etc es importante para la transparencia. Sanciones a Diputados o descuentos por efectos de inasistencias injustificadas.
+
+Solicitud finaciera del Banco de Venezuela, PDVSA, Empresas Estadales (Excelente). En el caso de los partidos o movimientos políticos deberían publicarse resumen curricular, estudios y experiencias en materia de trabajo social o político de sus miembros. El proyecto de Ley discrimina por ente. Hay que revisar que no se incurra en un posible riesgo empresarial en cuanto a estrategia de negocios, o información sensible y neurálgica para la empresa, particularmente con PDVSA y empresas del Estado.
+
+Uruguay: No discrimina por ente como Venezuela sino que generaliza con el término "organismo público". Lo solicitado por el portal es más sencillo: presupuesto asignado y ejecutado, sueldos por cargos, estadísticas (importante); mecanismos para la participación ciudadana.
+
+Ecuador:Su información solicitada por el portal es parecido al de Uruguay pero adicional agrega contratos elaborados, Los viáticos de las autoridades, dignatarios y funcionarios públicos (Excelente); y soliicita mayor información. Pero a pesar de lo anterior, menciona que deben ser entes de la administración pública. No mencioando ni Bancos ni empresas estadales.
+
+Observación: Lo que en sí coinciden es en la publicación de la estructura organizativa, sueldos por cargos y presupuesto asignado y ejecutado. No debería faltar cuentas en Bancos y Estados Financieros.
+
+
 #Sanciones
 
 VENEZUELA: Al funcionario público, multas de hasta un 50% de su salario mensual.
