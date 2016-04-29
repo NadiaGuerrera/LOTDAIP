@@ -26,7 +26,7 @@ Caso MEXICO:Ley Federal de Transparencia y Acceso a la Información Pública Gub
 http://web.archive.org/web/20130614232655/http://www.diputados.gob.mx/LeyesBiblio/pdf/244.pdf
 
 
-Observación: 
+Observaciones: 
 Uruguay y Chile son los países considerados los más transparentes en la región (LAC) según índices de percepción:
 http://www.uruguaytransparente.org.uy/images/cpi/CPI2015.pdf
 Página de años anteriores:

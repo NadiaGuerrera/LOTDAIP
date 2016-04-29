@@ -5,6 +5,37 @@
 
 Semejanzas: Garantizar el derecho al acceso a la información pública. Garantizar Transparencia en la gestión Pública.
 
+##BASES MORALES
+  VENEZUELA: el analfabetismo ha sido el principal problema para acceder a la información  
+  y gracias a los programas "Acude" y "Misión Robinson" se ha solventado hasta llegar al  
+  punto de ser declarado [territorio libre de analfabetismo por la UNESCO][Unesco_libre] PERO en  
+  este siglo XXI el analfabetismo tecnológico es un problema nuevo a combatir para lograr  
+  la transparencia gubernamental.
+
+[Unesco_libre]:http://www.telesurtv.net/telesuragenda/Venezuela-libre-de-analfabetismo-20141027-0046.html
+
+##BASES CONSTITUCIONALES
+####VENEZUELA:
+   * Constitución de la República Bolivariana de Venezuela, promulgada en  
+Gaceta Oficial Extraordinario N° 5.908 del jueves 19 de febrero de 2009.
+   * [Artículo 28][art28const]: Derecho de cada ciudadano a conocer cuáles entes gubernamentales manejan  
+     información sobre su persona e incluso tener derecho a ordernar corregirla(s) si fuesen datos erróneos.
+   * [Artículo 51][art51const]: BASE LEGAL, FIRME Y EXPLÍCITA PARA LA LOTDAIP.
+   * [Artículo 57][art57const]: Se prohíbe la censura a los funcionarios públicos o funcionarias públicas  
+     para dar cuenta de los asuntos bajo sus responsabilidades.
+   * [Artículo 58][art58const]: Información oportuna, veraz e imparcial (sectores público y privado)
+   * [Artículo 60][art60const]: Derecho a la intimidad digital personal/familiar y su protección.
+   * [Artículo 108][art108const]: CONSAGRADA el [Acceso universal a la información][AUI].
+   * [Artículo 143][art143const]: Derecho a obtener respuesta de las solicitudes formuladas.
+
+[art28const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art28
+[art51const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art51
+[art57const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art57
+[art58const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art58
+[art60const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art60
+[art108const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art108
+[art143const]:http://cne.gob.ve/web/normativa_electoral/constitucion/titulo3.php#art143
+[AUI]:http://132.248.242.3/~publica/archivos/libros/acceso_universal_informacion.pdf
 
 #PROCEDIMIENTOS
 
@@ -82,3 +113,45 @@ Suspensión de sus funciones por el tiempo de treinta días calendario, sin dere
 y, Destitución del cargo en caso de que, a pesar de la multa o suspensión impuesta, se persistiere en la negativa a la entrega de la información. Multa de cien a quinientos dólares por cada día de incumplimiento a la resolución.
 
 CHILE: Multa de 20% a 50% de su remuneración de la Autoridad o Jefe que incumpla con la solicitud de acceso a la Información.
+
+#Rendición de Cuentas a través de portales Web.
+
+VENEZUELA: Se piden en los portales sueldos de funcionarios públicos pero en el caso de la Asamblea Nacional se omite publicación de remuneración o montos cancelados por dietas, bonos o remuneración por sesión a diputados. Es decir, necesitamos saber cuánto ganan los diputados, de igual forma. La publicación de su remuneración, bonos etc es importante para la transparencia. Sanciones a Diputados o descuentos por efectos de inasistencias injustificadas.
+
+Solicitud finaciera del Banco de Venezuela, PDVSA, Empresas Estadales (Excelente). En el caso de los partidos o movimientos políticos deberían publicarse resumen curricular, estudios y experiencias en materia de trabajo social o político de sus miembros. El proyecto de Ley discrimina por ente. Hay que revisar que no se incurra en un posible riesgo empresarial en cuanto a estrategia de negocios, o información sensible y neurálgica para la empresa, particularmente con PDVSA y empresas del Estado.
+
+URUGUAY: No discrimina por ente como Venezuela sino que generaliza con el término “organismo público”. Lo solicitado por el portal es más sencillo: presupuesto asignado y ejecutado, sueldos por cargos, estadísticas (importante); mecanismos para la participación ciudadana.
+
+ECUADOR: Su información solicitada por el portal es parecido al de Uruguay pero adicional agrega contratos elaborados, Los viáticos de las autoridades, dignatarios y funcionarios públicos (Excelente); y solicita mayor información. Pero a pesar de lo anterior, menciona que deben ser entes de la administración pública. No mencioando ni Bancos ni empresas estadales.
+
+Observación: Lo que en sí coinciden es en la publicación de la estructura organizativa, sueldos por cargos y presupuesto asignado y ejecutado. No debería faltar cuentas en Bancos y Estados Financieros.
+
+———-
+
+Podríamos decir, que en el caso de Venezuela, hoy en día esta Ley es una gran necesidad. Su implementación obligaría al Estado a cumplir las normas. No podemos ser ilusos, sabemos que la ejecución de esta ley no eliminaría por completo la corrupción, pero en efecto si la disminuiría.
+
+Por otro lado, cabe destacar lo siguientes Aspectos en cuanto al Proyecto de Ley sobre Transparencia que propone la Asamblea Nacional:
+
+1. Los procedimientos planteados en el Proyecto para Venezuela, tiende  a ser confuso (Art. 40 y 41); excesivamente burocrático y engorroso.
+
+2. En la aplicación de funciones se hace mención al funcionario de Atención al Ciudadano, delegando en este la responsabilidad de emisión de información solicitada. Cuando en realidad el responsable principal debe ser en todo momento la máxima autoridad del ente. En virtud, de que lo anterior, en la práctica, significaría un lastimoso ejercicio de “chivo expiatorio” en donde el funcionario quien no tiene autoridad sobre directivos administrativos cargaría con el acto negar información al solicitante. Insisto esto será motivo de inculpar al funcionario de turno en la oficina de atención al ciudadano. Se convertirá en un constante acto de chivo expiatorio…
+
+3. En cuanto a los plazos la propuesta es confusa. En comparación al resto de las leyes estudiadas que la plantean de una forma más clara y concisa.
+
+4. El ente rector que será un  “Consejo de Transparencia” será adscrito a la Contraloría de la República pero nombrado por la AN…Es decir, ambiguedad, entre el ente rector y quienes le asignan sus cargos?. Propongo que su nombramiento sea en conjunto entre los distintos poderes. Para que de esa forma pueda ser más objetivo su nombramiento sin sesgo ni parcialidad alguna aparente.
+
+5. La duración de los consejeros deberían ser de menor tiempo. Para evitar apego al cargo por parte de los mismos. Sin derecho a reelección.
+
+6. La responsabilidad penal o jurídica de los hechos por complicidad u omisión de consejeros en la aplicación de la ley deben ser sancionadas severamente. En este proyecto no se mencionan sanciones a los consejeros; los mismos, parecen intocables. ¿Quién garantiza que los consejeros cumplan son su labor?…
+
+7. En cuanto al ámbito de aplicación deberían mencionar explícitamente a las universidades autónomas o cualquier institución de educación superior, pública o mixta. Así como a las Fuerzas Armadas y cualquier otro órganismo de seguridad del Estado.
+
+8. El proyecto incluye a entes privados que otorguen bienes o servicios a los ente públicos. Excelente planteamiento.
+
+9. En cuanto a las Sanciones deberían imputarse a funcionarios relacionados a la información que ha sido negada. Pero en especial debería sancionarse a la autoridad representante del ente quien debe recaer en él el mayor peso de responsabilidad penal o jurídica, de acuerdo al caso. Ecuador menciona multas en dólares (sería una forma interesante). Y Chile deja claro que es al Jefe o Autoridad a quien se le aplica la sanción.
+
+10. En la publicación por el portal no se le exige a la Asamblea Nacional la publicación de la remuneración de los diputados y demás empleados del órgano, dietas, bonos y viáticos. Debería aplicarse tal como se solicita a otros empleados o servidores públicos, sin ningún tipo de discriminación y respetando el espíritu de transparencia.
+
+Sin lugar a dudas, que una ley en materia de transparencia y acceso a la información pública en nuestro país, es lo que nos hace falta a los venezolanos para permitirnos construir el país que todos soñamos, en función de avanzar hacia una sociedad sana basada en los valores del respeto de sus gobernantes hacia sus ciudadanos, recuperar la confianza en nuestros políticos, satisfacción ciudadana, honestidad y valor al trabajo del funcionario público.
+
+Por lo anterior, es importante la documentación, la participación, los aportes que podamos hacer cada uno de nosotros desde nuestros espacios. Informáticos y especialistas de carreras afines, activistas del SL, abogados, administradores. En fin, todos, sin importar pudiéramos hacer grandes aportes que hagan la diferencia para tener una ley lo más ajustada a nuestra realidad. Y lo más relevante, una ley que pueda ser aplicable y realizable, a corto, mediano y largo plazo ¡ lo necesitamos urgente!…
